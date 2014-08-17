@@ -1,0 +1,20 @@
+{
+  "name": "Metodo-Manniello",
+  "version": "0.1.0",
+  "main": "index.html",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "es5-shim": "~2.1.0",
+    "json3": "~3.2.6",
+    "modernizer": "",
+    "jquery": "",
+    "underscore": "",
+    "backbone": "",
+    "bootstrap-sass": ""
+  },
+  "devDependencies": {
+  }
+}
